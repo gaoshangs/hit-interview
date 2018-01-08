@@ -6,6 +6,8 @@
 - [PHP面试总结全](http://www.cnblogs.com/zyf-zhaoyafei/p/4828358.html)
 - [面试题汇总1](https://github.com/ycrao/mynotes/issues/1)
 - [面试题汇总2](https://github.com/ycrao/mynotes/issues/4)
+- [谈谈 CGI、FastCGI、PHP-CGI、PHP-fpm](http://blog.csdn.net/qq_17765229/article/details/52180125)
+- ​
 
 ## PHP框架
 - [yaf官方文档](http://php.net/manual/zh/book.yaf.php)
@@ -15,7 +17,7 @@
 ## swoole
 - [官方文档](https://wiki.swoole.com/wiki/page/p-server.html)
 - [官方首页](https://www.swoole.com/)
-- 
+- ​
 
 ## golang
 - [京东三级列表页持续架构优化 — Golang + Lua (OpenResty) 最佳实践](https://juejin.im/entry/5833f389570c35006c23992c)
@@ -46,7 +48,7 @@
 - [比起JSON 更方便、更快速、更简短的Protobuf 格式](https://yami.io/protobuf/)
 - [RESTful API 设计指南](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
 - [Google Protocol Buffer 的使用和原理](https://www.ibm.com/developerworks/cn/linux/l-cn-gpb/index.html)
-- 
+- ​
 
 ## 算法
 
@@ -57,21 +59,20 @@
 
 ## MapReduce
 - [如何简单解释 MapReduce 算法](http://www.techug.com/post/mapreduce.html)
-- 
+- ​
 
 ## ElasticStack系列
 - [分页查询From&Size VS scroll](http://www.cnblogs.com/xing901022/p/5284902.html)
 - [使用scroll实现Elasticsearch数据遍历和深度分页](http://lxwei.github.io/posts/使用scroll实现Elasticsearch数据遍历和深度分页.html)
 - [面试小结之Elasticsearch篇](http://ginobefunny.com/post/elasticsearch_interview_questions/)
 - [ElasticStack](http://www.cnblogs.com/liang1101/tag/ElasticStack/)
-- 
+- ​
 
 ## HTTP/TCP/IP
 - [TAT.tennylvHTTP,HTTP2.0,SPDY,HTTPS你应该知道的一些事](http://www.alloyteam.com/2016/07/httphttp2-0spdyhttps-reading-this-is-enough/)
 - [HTTP/2资料总结](https://imququ.com/post/http2-resource.html)
 - [HTTP/TCP常见面试问题总结](http://blog.csdn.net/i10630226/article/details/54880363)
 - [hit-alibaba](https://hit-alibaba.github.io/interview/basic/network/HTTP.html)
-- 
 ## mysql
 - [常见面试题整理--数据库篇（每位开发者必备）](https://zhuanlan.zhihu.com/p/23713529)
 - [阿里巴巴MySQL DBA面试题答案(欢迎进来讨论)](http://blog.51cto.com/apprentice/1394494)
@@ -87,7 +88,7 @@
 ## javaweb
 - [spring面试题总结](https://www.jianshu.com/p/a8938811f0bc)
 - [JAVA面试题 java web部分](https://www.jianshu.com/p/005f0252189a)
-- 
+- ​
 
 ## linux系统和网络编程
 - [计算机网络篇](https://zhuanlan.zhihu.com/p/24001696)
@@ -103,7 +104,7 @@
 - [2017年企业运维岗经典面试题](http://www.yunweipai.com/archives/18798.html)
 - [Linux系统运维常见面试简答题系列（二）](http://www.yunweipai.com/archives/12037.html)
 - [2017年企业运维岗经典面试题（28题）](http://www.yunweipai.com/archives/18798.html)
-- 
+- ​
 
 ## 安全
 - [前端需要知道的web安全知识](https://segmentfault.com/a/1190000010913697)
@@ -112,7 +113,11 @@
 - [Web缓存详解](https://segmentfault.com/a/1190000010913697)
 - [你有自己的Web缓存知识体系吗](http://www.yunweipai.com/archives/8240.html)
 - [缓存更新的套路](http://coolshell.cn/articles/17416.html)
-- 
+- ​
 
 ## 架构
 - [SOA和微服务架构的区别](https://www.zhihu.com/question/37808426)
+
+## 版本控制
+
+- [Git 的 4 个阶段的撤销更改](https://mp.weixin.qq.com/s/Bk2SxSPnxglSSTy5AVk8dA)
